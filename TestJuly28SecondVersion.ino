@@ -1,4 +1,3 @@
-//4 time interval
 /**
  * This class measures the tempo as you tap the drum
  * and calculates the BPM and shows up on the 7 segment displays as a 3 digits
