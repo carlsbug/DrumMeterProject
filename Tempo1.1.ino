@@ -1,5 +1,9 @@
-//2 time interval with ---
-
+/**
+ * This class measures the tempo as you tap the drum
+ * and calculates the BPM and shows up on the 7 segment displays as a 3 digits
+ * @author KeonwoongMin
+ *
+ */
 const int a = 2;
 const int b = 3;
 const int c = 4;
